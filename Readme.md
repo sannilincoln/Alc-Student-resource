@@ -15,7 +15,7 @@ clone this project locally using `git clone filename`
 
 `cd into the cloned folder`.
 
-to access the frontend implementation, switch the branch to `alc-frontend`
+to access the frontend implementation, switch the branch to `frontend`
 
 RUN `npm install` to get all dependencies.
 
